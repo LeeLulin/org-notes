@@ -1,12 +1,54 @@
 * speacemacs
 ** speacemacs快捷键
+spc p f             在当前项目里查找文件
+
 spc f e d           快速打开配置文件 .speacemacs
+
 spc f e R           同步配置文件
-spc f f             打开新建文件
-control w c         关闭当前buffer
+
+spc f f             打开文件
+
+spc f L             查找mac系统文件
+
+spc f o             使用外部程序打开文件
+
+spc f r             打开最近常用的文件
+
+spc f R             重命名当前文件
+
+spc f y(p)          复制当前文件的路径
+
+spc f a d           访问最近访问的目录
+
+spc f s/S           保存当前/所有Buffer
+
+ctrl h              返回上级目录
+
+ctrl w c            关闭当前buffer
+
 spc q q/:q          退出speacemacs
+
 spc q r             重启speacemacs
+
 spc w v             竖排分割窗口
+** Buffer的操作
+spc b n/p           下一个/上一个Buffer
+
+spc b f             在Finder中显示
+
+spc b h             回到主页
+
+spc b m             关闭其他Buffer
+
+spc b R             还原Buffer
+
+spc b w             更改当前Buffer为只读模式
+
+spc b Y             复制当前Buffer所有内容
+
+spc tab             回到上一个Buffer
+
+
 ** org-mode快捷键
 j             上一行
 k             下一行
