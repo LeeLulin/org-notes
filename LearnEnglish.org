@@ -32,3 +32,10 @@
    :END:
 从零开始学习github【初识GitHub】https://zhuanlan.zhihu.com/p/21103336?refer=stormzhang
 从零开始学习github【加入GitHub】https://zhuanlan.zhihu.com/p/21113342?refer=stormzhang
+* Learn JavaScript
+** DONE fix eclipse<2017-04-23 Sun>
+   CLOSED: [2017-04-23 Sun 14:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 14:51]
+   CLOCK: [2017-04-23 Sun 14:43]--[2017-04-23 Sun 14:51] =>  0:08
+   :END:

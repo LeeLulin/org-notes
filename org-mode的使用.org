@@ -1,6 +1,7 @@
 * org-mode笔记
 ** 快捷键
-spc m I            插入时间开始计时
+spc m .            插入时间
+spc m I            开始计时
 shift →            结束计时
 i                  进入编辑模式
 Esc                退出编辑模式
