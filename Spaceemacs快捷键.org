@@ -1,0 +1,17 @@
+* speacemacs
+** speacemacs快捷键
+spc f e d           快速打开配置文件 .speacemacs
+spc f e R           同步配置文件
+spc f f             打开新建文件
+control w c         关闭当前buffer
+spc q q/:q          退出speacemacs
+spc q r             重启speacemacs
+spc w v             竖排分割窗口
+** org-mode快捷键
+j             上一行
+k             下一行
+h             向左移动光标
+l             向右移动光标
+u             撤销
+d             删除一行
+:w            保存

@@ -1,0 +1,34 @@
+* Learn English
+** DONE day1<2017-04-19 Wed 20:36>
+   CLOSED: [2017-04-19 Wed 20:45]常用单词 97.4%
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 Wed 20:45]
+   CLOCK: [2017-04-19 Wed 20:34]--[2017-04-19 Wed 20:45] =>  0:11
+   :END:
+** DONE day2<2017-04-20 Thu 19:36>
+   CLOSED: [2017-04-20 Thu 19:36]颜色和比例 95.5%
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-20 Thu 19:36]
+   CLOCK: [2017-04-20 Thu 19:24]--[2017-04-20 Thu 19:36] =>  0:12
+   :END:
+** DONE day3<2017-04-23 Sun 09:59>
+   CLOSED: [2017-04-23 Sun 09:59]常用单词 96.3%
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 09:59]
+   CLOCK: [2017-04-23 Sun 09:50]--[2017-04-23 Sun 09:59] =>  0:09
+   :END:
+*** DONE day3_2<2017-04-23 Sun 10:10>
+    CLOSED: [2017-04-23 Sun 10:10]常用单词 97.7%
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-04-23 Sun 10:10]
+    CLOCK: [2017-04-23 Sun 10:02]--[2017-04-23 Sun 10:10] =>  0:08
+    :END:
+* Learn github
+** DONE how to use github<2017-04-23 Sun 11:00
+   CLOSED: [2017-04-23 Sun 11:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 11:00]
+   CLOCK: [2017-04-23 Sun 10:14]--[2017-04-23 Sun 11:00] =>  0:46
+   :END:
+从零开始学习github【初识GitHub】https://zhuanlan.zhihu.com/p/21103336?refer=stormzhang
+从零开始学习github【加入GitHub】https://zhuanlan.zhihu.com/p/21113342?refer=stormzhang
