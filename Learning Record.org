@@ -35,6 +35,12 @@
     - State "DONE"       from "STARTED"    [2017-04-23 日 15:50]
     CLOCK: [2017-04-23 日 15:37]--[2017-04-23 日 15:50] =>  0:13
     :END:
+** DONE 2017年4月24日<2017-04-24 Mon 20:11> 介词.空间位置 94.9%
+   CLOSED: [2017-04-24 Mon 20:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-24 Mon 20:33]
+   CLOCK: [2017-04-24 Mon 20:11]--[2017-04-24 Mon 20:33] =>  0:22
+   :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -61,3 +67,9 @@
    :LOGBOOK:  
    - State "DONE"       from "STARTED"    [2017-04-24 Mon 19:33]
    :END:      
+** DONE test<2017-04-24 Mon 20:06>
+   CLOSED: [2017-04-24 Mon 20:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-24 Mon 20:08]
+   CLOCK: [2017-04-24 Mon 20:06]--[2017-04-24 Mon 20:08] =>  0:02
+   :END:
