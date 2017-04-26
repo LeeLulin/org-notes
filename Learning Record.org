@@ -44,8 +44,14 @@
 ** DONE 2017年4月25日<2017-04-25 Tue 08:06>颜色和比例 97.0%
    CLOSED: [2017-04-25 Tue 20:17]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-04-25 Tue 20:17]
+** DONE 2017年4月26日<2017-04-26 Wed 13:48>介词.空间位置 96.1%
+   CLOSED: [2017-04-26 Wed 14:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-26 Wed 14:06]
+   CLOCK: [2017-04-26 Wed 13:48]--[2017-04-26 Wed 14:06] =>  0:18
    CLOCK: [2017-04-25 Tue 20:06]--[2017-04-25 Tue 20:17] =>  0:11
+   :END:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 20:17]
    :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
@@ -74,3 +80,22 @@
    - State "DONE"       from "STARTED"    [2017-04-25 Tue 19:58]
    CLOCK: [2017-04-25 Tue 19:30]--[2017-04-25 Tue 19:58] =>  0:28
    :END:
+* Learn zilongshanren video
+** DONE day17-lispy<2017-04-26 Wed 14:53>
+   CLOSED: [2017-04-26 Wed 15:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-26 Wed 15:37]
+   CLOCK: [2017-04-26 Wed 14:53]--[2017-04-26 Wed 15:37] =>  0:44
+   :END:
+** DONE learn elisp<2017-04-26 Wed 15:38>
+   CLOSED: [2017-04-26 Wed 16:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-26 Wed 16:11]
+   CLOCK: [2017-04-26 Wed 15:38]--[2017-04-26 Wed 16:11] =>  0:33
+   :END:
+*** DONE relax<2017-04-26 Wed 16:33>
+    CLOSED: [2017-04-26 Wed 16:44]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-04-26 Wed 16:44]
+    CLOCK: [2017-04-26 Wed 16:32]--[2017-04-26 Wed 16:44] =>  0:12
+    :END:
