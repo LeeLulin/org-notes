@@ -53,6 +53,12 @@
    :END:
    - State "DONE"       from "STARTED"    [2017-04-25 Tue 20:17]
    :END:
+** DONE 2017年4月27日<2017-04-27 Thu 08:15>常用单词 97.3%
+   CLOSED: [2017-04-27 Thu 08:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-27 Thu 08:23]
+   CLOCK: [2017-04-27 Thu 08:15]--[2017-04-27 Thu 08:23] =>  0:08
+   :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -99,3 +105,9 @@
     - State "DONE"       from "STARTED"    [2017-04-26 Wed 16:44]
     CLOCK: [2017-04-26 Wed 16:32]--[2017-04-26 Wed 16:44] =>  0:12
     :END:
+** DONE elisp <2017-04-27 Thu 08:37>
+   CLOSED: [2017-04-27 Thu 10:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-27 Thu 10:13]
+   CLOCK: [2017-04-27 Thu 08:37]--[2017-04-27 Thu 10:13] =>  1:36
+   :END:
