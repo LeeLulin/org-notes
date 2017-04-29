@@ -71,7 +71,30 @@
     - State "STARTED"    from "DONE"       [2017-04-27 Thu 15:39]
     CLOCK: [2017-04-27 Thu 15:29]
     :END:
-*** 2017年4月27日 晚上<2017-04-27 Thu 19:33>
+*** DONE 2017年4月27日 晚上<2017-04-27 Thu 19:39> 颜色和比例 98.8%
+    CLOSED: [2017-04-27 Thu 19:51]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-04-27 Thu 19:51]
+    CLOCK: [2017-04-27 Thu 19:40]--[2017-04-27 Thu 19:51] =>  0:11
+    :END:
+** DONE 2017年4月28日<2017-04-28 Fri 08:28>介词.空间位置 97.9%
+   CLOSED: [2017-04-28 Fri 08:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 08:46]
+   CLOCK: [2017-04-28 Fri 08:28]--[2017-04-28 Fri 08:46] =>  0:18
+   :END:
+** DONE on the road<2017-04-29 Sat 09:11>
+   CLOSED: [2017-04-29 Sat 10:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 10:43]
+   CLOCK: [2017-04-29 Sat 09:11]--[2017-04-29 Sat 10:43] =>  1:32
+   :END:
+** DONE 2017年4月29日<2017-04-29 Sat 09:17>代词 95.0%
+   CLOSED: [2017-04-29 Sat 09:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 09:36]
+   CLOCK: [2017-04-29 Sat 09:17]--[2017-04-29 Sat 09:36] =>  0:19
+   :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -98,6 +121,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-25 Tue 19:58]
    CLOCK: [2017-04-25 Tue 19:30]--[2017-04-25 Tue 19:58] =>  0:28
+   :END:
+** DONE 安装Eclipse<2017-04-27 Thu 20:33>
+   CLOSED: [2017-04-27 Thu 20:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-27 Thu 20:48]
+   CLOCK: [2017-04-27 Thu 20:33]--[2017-04-27 Thu 20:48] =>  0:15
    :END:
 * Learn zilongshanren video
 ** DONE day17-lispy<2017-04-26 Wed 14:53>
@@ -136,3 +165,22 @@
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 16:50]
    CLOCK: [2017-04-27 Thu 16:10]--[2017-04-27 Thu 16:50] =>  0:40
    :END:
+** DONE org-mode<2017-04-27 Thu 19:54>
+   CLOSED: [2017-04-27 Thu 20:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-27 Thu 20:11]
+   CLOCK: [2017-04-27 Thu 19:54]--[2017-04-27 Thu 20:11] =>  0:17
+   :END:
+* elisp
+** DONE 2017年4月28日<2017-04-28 Fri 09:07>
+   CLOSED: [2017-04-28 Fri 09:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 09:19]
+   CLOCK: [2017-04-28 Fri 09:07]--[2017-04-28 Fri 09:19] =>  0:12
+   :END:
+*** DONE learn elisp <2017-04-28 Fri 09:38>
+    CLOSED: [2017-04-28 Fri 11:49]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-04-28 Fri 11:49]
+    CLOCK: [2017-04-28 Fri 09:38]--[2017-04-28 Fri 11:49] =>  2:11
+    :END:
