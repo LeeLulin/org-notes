@@ -113,6 +113,12 @@
     - State "DONE"       from "STARTED"    [2017-05-01 Mon 16:56]
     CLOCK: [2017-05-01 Mon 16:34]--[2017-05-01 Mon 16:56] =>  0:22
     :END:
+** DONE 2017年5月2日<2017-05-02 Tue 11:54>介词.空间位置 96.5%
+   CLOSED: [2017-05-02 Tue 12:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 12:07]
+   CLOCK: [2017-05-02 Tue 11:54]--[2017-05-02 Tue 12:07] =>  0:13
+   :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -151,6 +157,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 19:11]
    CLOCK: [2017-05-01 Mon 18:20]--[2017-05-01 Mon 19:11] =>  0:51
+   :END:
+** DONE WebMagic爬虫<2017-05-02 Tue 11:39>
+   CLOSED: [2017-05-02 Tue 11:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 11:53]
+   CLOCK: [2017-05-02 Tue 11:39]--[2017-05-02 Tue 11:53] =>  0:14
    :END:
 * Learn zilongshanren video
 ** DONE day17-lispy<2017-04-26 Wed 14:53>
