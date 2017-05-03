@@ -125,6 +125,24 @@
     - State "DONE"       from "STARTED"    [2017-05-02 Tue 19:19]
     CLOCK: [2017-05-02 Tue 19:07]--[2017-05-02 Tue 19:19] =>  0:12
     :END:
+** DONE 2017年5月3日<2017-05-03 Wed 19:00>颜色和比例 99.7%
+   CLOSED: [2017-05-03 Wed 19:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 19:10]
+   CLOCK: [2017-05-03 Wed 19:00]--[2017-05-03 Wed 19:10] =>  0:10
+   :END:
+*** DONE 2017年5月3日 <2017-05-03 Wed 19:12>常用单词 98.4%
+    CLOSED: [2017-05-03 Wed 19:20]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-03 Wed 19:20]
+    CLOCK: [2017-05-03 Wed 19:12]--[2017-05-03 Wed 19:20] =>  0:08
+    :END:
+*** DONE 2017年5月3日<2017-05-03 Wed 19:20>常用单词 99.6%
+    CLOSED: [2017-05-03 Wed 19:29]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-03 Wed 19:29]
+    CLOCK: [2017-05-03 Wed 19:20]--[2017-05-03 Wed 19:29] =>  0:09
+    :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -169,6 +187,18 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-02 Tue 11:53]
    CLOCK: [2017-05-02 Tue 11:39]--[2017-05-02 Tue 11:53] =>  0:14
+   :END:
+** DONE java<2017-05-03 Wed 19:37>
+   CLOSED: [2017-05-03 Wed 20:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 20:27]
+   CLOCK: [2017-05-03 Wed 19:37]
+   :END:
+** DONE relax<2017-05-03 Wed 20:32>
+   CLOSED: [2017-05-03 Wed 20:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 20:57]
+   CLOCK: [2017-05-03 Wed 20:32]--[2017-05-03 Wed 20:57] =>  0:25
    :END:
 * Learn zilongshanren video
 ** DONE day17-lispy<2017-04-26 Wed 14:53>
