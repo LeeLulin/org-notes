@@ -143,6 +143,18 @@
     - State "DONE"       from "STARTED"    [2017-05-03 Wed 19:29]
     CLOCK: [2017-05-03 Wed 19:20]--[2017-05-03 Wed 19:29] =>  0:09
     :END:
+** DONE 2017年5月4日<2017-05-04 Thu 19:12>介词.空间位置 98.7%
+   CLOSED: [2017-05-04 Thu 19:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-04 Thu 19:33]
+   CLOCK: [2017-05-04 Thu 19:12]--[2017-05-04 Thu 19:33] =>  0:21
+   :END:
+** DONE 2017年5月4日 晚<2017-05-04 Thu 19:39>介词.空间位置 98.0%
+   CLOSED: [2017-05-04 Thu 19:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-04 Thu 19:53]
+   CLOCK: [2017-05-04 Thu 19:39]--[2017-05-04 Thu 19:53] =>  0:14
+   :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -194,6 +206,12 @@
    - State "DONE"       from "STARTED"    [2017-05-03 Wed 20:27]
    CLOCK: [2017-05-03 Wed 19:37]
    :END:
+** DONE 复习<2017-05-04 Thu 20:05>
+   CLOSED: [2017-05-04 Thu 20:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-04 Thu 20:57]
+   CLOCK: [2017-05-04 Thu 20:56]--[2017-05-04 Thu 20:57] =>  0:01
+   :END:
 ** DONE relax<2017-05-03 Wed 20:32>
    CLOSED: [2017-05-03 Wed 20:57]
    :LOGBOOK:
@@ -242,6 +260,17 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 20:11]
    CLOCK: [2017-04-27 Thu 19:54]--[2017-04-27 Thu 20:11] =>  0:17
+   :END:
+** DONE org-mode<2017-05-04 Thu 19:58>
+   CLOSED: [2017-05-04 Thu 19:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-04 Thu 19:59]
+   :END:
+** DONE learn org-mode<2017-05-04 Thu 20:00>
+   CLOSED: [2017-05-04 Thu 20:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-04 Thu 20:03]
+   CLOCK: [2017-05-04 Thu 20:00]--[2017-05-04 Thu 20:03] =>  0:03
    :END:
 * elisp
 ** DONE 2017年4月28日<2017-04-28 Fri 09:07>
