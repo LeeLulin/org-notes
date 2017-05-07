@@ -155,6 +155,12 @@
    - State "DONE"       from "STARTED"    [2017-05-04 Thu 19:53]
    CLOCK: [2017-05-04 Thu 19:39]--[2017-05-04 Thu 19:53] =>  0:14
    :END:
+** DONE 2017年5月7日<2017-05-07 Sun 08:52>介词.空间位置98.1%
+   CLOSED: [2017-05-07 Sun 09:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 09:04]
+   CLOCK: [2017-05-07 Sun 08:52]--[2017-05-07 Sun 09:04] =>  0:12
+   :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
    CLOSED: [2017-04-23 Sun 11:00]
@@ -212,11 +218,35 @@
    - State "DONE"       from "STARTED"    [2017-05-04 Thu 20:57]
    CLOCK: [2017-05-04 Thu 20:56]--[2017-05-04 Thu 20:57] =>  0:01
    :END:
+** DONE Java <2017-05-06 Sat 21:06>
+   CLOSED: [2017-05-06 Sat 22:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 22:52]
+   CLOCK: [2017-05-06 Sat 21:06]--[2017-05-06 Sat 22:52] =>  1:46
+   :END:
 ** DONE relax<2017-05-03 Wed 20:32>
    CLOSED: [2017-05-03 Wed 20:57]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-03 Wed 20:57]
    CLOCK: [2017-05-03 Wed 20:32]--[2017-05-03 Wed 20:57] =>  0:25
+   :END:
+** DONE 方法重载<2017-05-07 Sun 09:05>
+   CLOSED: [2017-05-07 Sun 13:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 13:28]
+   CLOCK: [2017-05-07 Sun 09:06]--[2017-05-07 Sun 13:28] =>  4:22
+   :END:
+** DONE 包的创建<2017-05-07 Sun 13:39>
+   CLOSED: [2017-05-07 Sun 14:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 14:45]
+   CLOCK: [2017-05-07 Sun 13:39]--[2017-05-07 Sun 14:45] =>  1:06
+   :END:
+** DONE Java<2017-05-07 Sun 15:03>
+   CLOSED: [2017-05-07 Sun 15:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 15:52]
+   CLOCK: [2017-05-07 Sun 15:03]--[2017-05-07 Sun 15:52] =>  0:49
    :END:
 * Learn zilongshanren video
 ** DONE day17-lispy<2017-04-26 Wed 14:53>
