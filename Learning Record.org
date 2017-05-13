@@ -179,11 +179,29 @@
    - State "DONE"       from "STARTED"    [2017-05-11 Thu 19:08]
    CLOCK: [2017-05-11 Thu 18:56]--[2017-05-11 Thu 19:08] =>  0:12
    :END:
-** DONE 2017年5月12日<2017-05-12 Fri 19:18>98.3%
+** DONE 2017年5月12日<2017-05-12 Fri 19:18>代词98.3%
    CLOSED: [2017-05-12 Fri 19:30]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-12 Fri 19:30]
    CLOCK: [2017-05-12 Fri 19:18]--[2017-05-12 Fri 19:30] =>  0:12
+   :END:
+** DONE 2017年5月13日<2017-05-13 Sat 08:42>代词97.2%
+   CLOSED: [2017-05-13 Sat 08:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 08:57]
+   CLOCK: [2017-05-13 Sat 08:42]--[2017-05-13 Sat 08:57] =>  0:15
+   :END:
+** DONE 2017年5月13日2<2017-05-13 Sat 10:38>代词98.5%
+   CLOSED: [2017-05-13 Sat 10:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 10:49]
+   CLOCK: [2017-05-13 Sat 10:38]--[2017-05-13 Sat 10:49] =>  0:11
+   :END:
+** DONE 2017年5月13日3<2017-05-13 Sat 15:14>代词98.9%
+   CLOSED: [2017-05-13 Sat 15:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 15:25]
+   CLOCK: [2017-05-13 Sat 15:14]--[2017-05-13 Sat 15:25] =>  0:11
    :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
@@ -302,6 +320,18 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-12 Fri 22:49]
    CLOCK: [2017-05-12 Fri 19:36]--[2017-05-12 Fri 22:49] =>  3:13
+   :END:
+** DONE 接口<2017-05-13 Sat 09:30>
+   CLOSED: [2017-05-13 Sat 15:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 15:29]
+   CLOCK: [2017-05-13 Sat 09:30]--[2017-05-13 Sat 10:38] =>  1:08
+   :END:
+** DONE 接口2<2017-05-13 Sat 15:30>
+   CLOSED: [2017-05-13 Sat 17:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 17:07]
+   CLOCK: [2017-05-13 Sat 15:31]--[2017-05-13 Sat 17:07] =>  1:36
    :END:
 * Learn zilongshanren video
 ** DONE day17-lispy<2017-04-26 Wed 14:53>
