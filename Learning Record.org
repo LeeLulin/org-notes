@@ -66,8 +66,11 @@
     CLOCK: [2017-04-27 Thu 15:17]--[2017-04-27 Thu 15:26] =>  0:09
     :END:
 *** DONE typing<2017-04-27 Thu 15:29> 常用单词 99.1%
-    CLOSED: [2017-04-27 Thu 19:32]
+    CLOSED: [2017-05-14 Sun 09:58]
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-14 Sun 09:58]
+    - State "STARTED"    from "DONE"       [2017-05-14 Sun 09:57]
+    CLOCK: [2017-05-14 Sun 09:57]--[2017-05-14 Sun 09:58] =>  0:01
     - State "STARTED"    from "DONE"       [2017-04-27 Thu 15:39]
     CLOCK: [2017-04-27 Thu 15:29]
     :END:
@@ -155,13 +158,13 @@
    - State "DONE"       from "STARTED"    [2017-05-04 Thu 19:53]
    CLOCK: [2017-05-04 Thu 19:39]--[2017-05-04 Thu 19:53] =>  0:14
    :END:
-** DONE 2017年5月7日<2017-05-07 Sun 08:52>介词.空间位置98.1%
+** DONE 2017年5月7日<2017-05-07 Sun 08:52>介词.空间位置 98.1%
    CLOSED: [2017-05-07 Sun 09:04]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-07 Sun 09:04]
    CLOCK: [2017-05-07 Sun 08:52]--[2017-05-07 Sun 09:04] =>  0:12
    :END:
-** DONE 2017年5月8日<2017-05-08 Mon 19:01>介词.空间位置98.1%
+** DONE 2017年5月8日<2017-05-08 Mon 19:01>介词.空间位置 98.1%
    CLOSED: [2017-05-08 Mon 19:23]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-08 Mon 19:23]
@@ -173,35 +176,47 @@
    - State "DONE"       from "STARTED"    [2017-05-10 Wed 19:30]
    CLOCK: [2017-05-10 Wed 19:19]--[2017-05-10 Wed 19:30] =>  0:11
    :END:
-** DONE 2017年5月11日<2017-05-11 Thu 18:56>介词.空间位置99.4%
+** DONE 2017年5月11日<2017-05-11 Thu 18:56>介词.空间位置 99.4%
    CLOSED: [2017-05-11 Thu 19:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-11 Thu 19:08]
    CLOCK: [2017-05-11 Thu 18:56]--[2017-05-11 Thu 19:08] =>  0:12
    :END:
-** DONE 2017年5月12日<2017-05-12 Fri 19:18>代词98.3%
+** DONE 2017年5月12日<2017-05-12 Fri 19:18>代词 98.3%
    CLOSED: [2017-05-12 Fri 19:30]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-12 Fri 19:30]
    CLOCK: [2017-05-12 Fri 19:18]--[2017-05-12 Fri 19:30] =>  0:12
    :END:
-** DONE 2017年5月13日<2017-05-13 Sat 08:42>代词97.2%
+** DONE 2017年5月13日<2017-05-13 Sat 08:42>代词 97.2%
    CLOSED: [2017-05-13 Sat 08:57]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 08:57]
    CLOCK: [2017-05-13 Sat 08:42]--[2017-05-13 Sat 08:57] =>  0:15
    :END:
-** DONE 2017年5月13日2<2017-05-13 Sat 10:38>代词98.5%
+** DONE 2017年5月13日2<2017-05-13 Sat 10:38>代词 98.5%
    CLOSED: [2017-05-13 Sat 10:49]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 10:49]
    CLOCK: [2017-05-13 Sat 10:38]--[2017-05-13 Sat 10:49] =>  0:11
    :END:
-** DONE 2017年5月13日3<2017-05-13 Sat 15:14>代词98.9%
+** DONE 2017年5月13日3<2017-05-13 Sat 15:14>代词 98.9%
    CLOSED: [2017-05-13 Sat 15:25]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 15:25]
    CLOCK: [2017-05-13 Sat 15:14]--[2017-05-13 Sat 15:25] =>  0:11
+   :END:
+** DONE 2017年5月14日<2017-05-14 Sun 09:33>代词 99.1%
+   CLOSED: [2017-05-14 Sun 09:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 09:46]
+   CLOCK: [2017-05-14 Sun 09:34]--[2017-05-14 Sun 09:46] =>  0:12
+   :END:
+** DONE 2017年5月14日2<2017-05-14 Sun 19:28>外表 96.5%
+   CLOSED: [2017-05-14 Sun 19:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 19:49]
+   CLOCK: [2017-05-14 Sun 19:28]--[2017-05-14 Sun 19:49] =>  0:21
    :END:
 * Learn github
 ** DONE how to use github<2017-04-23 Sun 11:00
@@ -332,6 +347,18 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 17:07]
    CLOCK: [2017-05-13 Sat 15:31]--[2017-05-13 Sat 17:07] =>  1:36
+   :END:
+** DONE 异常处理<2017-05-14 Sun 09:57>
+   CLOSED: [2017-05-14 Sun 13:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 13:09]
+   CLOCK: [2017-05-14 Sun 10:00]--[2017-05-14 Sun 13:09] =>  3:09
+   :END:
+** DONE 接口的概念<2017-05-14 日 19:52>
+   CLOSED: [2017-05-14 日 20:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 日 20:41]
+   CLOCK: [2017-05-14 日 19:52]--[2017-05-14 日 20:41] =>  0:49
    :END:
 * Learn zilongshanren video
 ** DONE day17-lispy<2017-04-26 Wed 14:53>
